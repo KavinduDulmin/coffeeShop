@@ -11,7 +11,7 @@ export default function Home() {
       <TopicBox food ="Kottu" price="900"/>
       <TopicBox food ="Rice" price="800"/>
       <TopicBox food ="hopper" price="150"/>
-        
+        <p>this is my changes.....</p>
       <Content/>
     </div>
   )
